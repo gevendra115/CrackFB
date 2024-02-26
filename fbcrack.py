@@ -3,10 +3,10 @@
 
 ### --- [ INFORMASI ] --- ###
 Author = "Hacker Liar"
-Github = "github.com/hackerliar"
-Facebook = "facebook.com/HackersLiar"
+Github = "github.com/gevendra115"
+Facebook = "facebook.com/gevendra-bhavedi"
 Script = "Script Brute Force Account Facebook"
-Create = "01 January 2020"
+Create = "26 Fab 2024"
 
 ### --- [ IMPORT LIBRARY ] --- ###
 import requests, re, random, sys, os, time, string, subprocess, bs4
@@ -84,6 +84,7 @@ def ua_fb():
 def menu_utama():
 	os.system('clear' if 'linux' in sys.platform.lower() else 'cls')
 	print(f'''{H}
+ -------------------------------------{h}By @gevendra115---- 
    _____                         _        ______   ____  
   / ____|                       | |      |  ____| |  _ \ 
  | |       _ __    __ _    ___  | | __   | |__    | |_) |
