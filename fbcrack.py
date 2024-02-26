@@ -2,7 +2,7 @@
 # -*- coding with python 3.11 -*-
 
 ### --- [ INFORMASI ] --- ###
-Author = "Hacker Liar"
+Author = "Gevendra Bhavedi"
 Github = "github.com/gevendra115"
 Facebook = "facebook.com/gevendra-bhavedi"
 Script = "Script Brute Force Account Facebook"
